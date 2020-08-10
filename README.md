@@ -7,11 +7,12 @@ DERIVED VALUES, FLOWING
 OVERVIEW
 Generate mobile alerts (SMS or WhatsApp) for the community by specific SF zip code
 
-THE PROBLEM
+# THE PROBLEM
+{Data sources} overwhelm people' perception of the pandemic
 
-THE SOLUTION
+# THE SOLUTION
 
-USAGE
+# USAGE
 
 LICENSE
 
