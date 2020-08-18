@@ -11,4 +11,4 @@ Community Information Service enabling residents register their mobile numbers t
 
 ## LICENSE
 
-![License](https://img.shields.io/github/license/mbellezo/blank-express-ts-api?style=flat-square)
+![License](https://img.shields.io/github/license/patriciom/covid-cases-alert?style=flat-square)
