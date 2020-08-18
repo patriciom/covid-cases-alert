@@ -11,4 +11,4 @@ Community Information Service enabling residents register their mobile numbers t
 
 ## LICENSE
 
-:::image type="content" source="https://img.shields.io/github/license/patriciom/covid-cases-alert" alt-text="License":::
+![License](https://img.shields.io/github/license/mbellezo/blank-express-ts-api?style=flat-square)
